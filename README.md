@@ -14,7 +14,7 @@ A skilled full-stack web developer, I am currently pursuing a comprehensive 1000
 
 - ⭐ Currently learning System Design & TypeScript.
  
-- 🌍  I hail from Muzaffarnagar, Uttar Pradesh.
+- 🌍  I hail from Berhampur, Odisha.
 
 - 🔥  Visit my [Portfolio](https://jagannathking.github.io/my-_Portfolio/) for more details.
 
