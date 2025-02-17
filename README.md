@@ -88,7 +88,7 @@ A skilled full-stack web developer, I am currently pursuing a comprehensive 1000
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit77715&count_private=true&theme=light" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagannathking&count_private=true&theme=light" height="150" alt="stats graph"  />
 </div>
 <br>
 <br>
