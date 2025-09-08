@@ -104,3 +104,29 @@ I am a skilled full-stack web developer currently pursuing a comprehensive 1000+
               id="github-top-langs" />
  
 
+## 🚀 Pinned Projects  
+
+### 🍲 Recipe App  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://recipe-app-21bu.vercel.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/jagannathking/recipe-app)  
+
+🛠️ Tech Stack: React.js | CSS | API Integration  
+📌 A recipe search application where users can explore and view recipes with detailed instructions.  
+
+---
+
+### 📚 StudyNotion (Edtech Platform)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://studynotion-ap-frontend.vercel.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/jagannathking/studynotion-ap-frontend)  
+
+🛠️ Tech Stack: React.js | Node.js | Express.js | MongoDB | TailwindCSS  
+📌 An online learning platform with user authentication, course management, and a responsive UI.  
+
+---
+
+### 📝 Mind Board  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://joyful-arithmetic-adb115.netlify.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/jagannathking/mind-board)  
+
+🛠️ Tech Stack: React.js | CSS | LocalStorage  
+📌 A digital note-taking app that allows users to create, manage, and organize ideas effectively.  
