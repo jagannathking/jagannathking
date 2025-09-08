@@ -25,7 +25,8 @@ I am a skilled full-stack web developer currently pursuing a comprehensive 1000+
 <br />
 <hr>
 
-<img align="center" width="100%" height="400px" src="gif.gif">
+<<img align="center" width="100%" height="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
+
 
 <hr>
 
