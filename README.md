@@ -44,7 +44,7 @@ I am a skilled full-stack web developer currently pursuing a comprehensive 1000+
 </h4>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/jagannathking/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=jagannathking&label=Profile%20views&color=0e75b6&style=flat" alt="jagannathking" />
 </p>
 <hr>
 
