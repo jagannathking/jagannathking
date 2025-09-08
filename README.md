@@ -8,7 +8,7 @@
 
 
  #### 👨‍💻ABOUT ME:
-<h4 align="center">
+<h4 style="text-align:center">
 A skilled full-stack web developer, I am currently pursuing a comprehensive 1000+ hour web development course at Masai School, where I am gaining hands-on experience in both individual and collaborative projects. Proficient in HTML, CSS, JavaScript, React.js, redux, Express.js, Node.js, and MongoDB, I am eager to apply my growing skills and knowledge in a professional setting while continuing to learn and advance in this dynamic field 💡..</h4>
 <br/>
 
