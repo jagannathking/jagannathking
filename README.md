@@ -38,10 +38,14 @@ I am a skilled full-stack web developer currently pursuing a comprehensive 1000+
 
 <hr>
 
-<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+<h4 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> 
+  &nbsp;Visitor's count 👀
+</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{jagannathking}/count.svg" alt="jagannathking" :: Visitor's Count" /></p>
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jagannathking/count.svg" alt="Visitor's Count" />
+</p>
 <hr>
 
  #### 👨‍💻CONNECT WITH ME:
